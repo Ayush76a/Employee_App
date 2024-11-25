@@ -63,7 +63,7 @@ Follow these steps to run the project locally:
 
    2. Create a .env file in the Frontend directory.
    
-      Add necessary the variable REACT_APP_API_BASE_URL used as the base url for the frontend.
+      Add the necessary variable REACT_APP_API_BASE_URL used as the base url for the frontend.
    
 
 ## Folder Structure
